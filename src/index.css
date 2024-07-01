@@ -1,7 +1,7 @@
 /* google fonts */
 
-@import url("https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Istok+Web&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Tajawal&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Tajawal&display=swap");
 
 /* reset default style */
 
@@ -15,7 +15,7 @@
 
 body {
   background: #fcfcfc;
-  font-family: "Istok Web", sans-serif;
+  font-family: "Tajawal", sans-serif;
 }
 
 h1,
@@ -24,7 +24,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "RocknRoll One", sans-serif !important;
+  font-family: "Tajawal", sans-serif !important;
 }
 
 a {
@@ -36,7 +36,7 @@ h1,
 h2 {
   font-size: 2.1rem;
   font-weight: 600;
-  color: #212245;
+  color: #000000;
 }
 
 section {
